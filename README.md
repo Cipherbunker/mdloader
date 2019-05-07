@@ -1,7 +1,7 @@
 Ctrloader is a much easier way to flash your Massdrop Alt or Ctrl firmware 
 just cd to ctrloader and run the script ./ctrloader
 
-![1](1.jpg)
+![1](1.png)
 
 
 
@@ -9,7 +9,7 @@ just cd to ctrloader and run the script ./ctrloader
 
 then drag and drop your firmware and hit enter. 
 
-![1](1.jpg)
+![2](2.png)
 
 
 
