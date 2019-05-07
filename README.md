@@ -1,5 +1,32 @@
-### tl;dr
+Ctrloader is a much easier way to flash your Massdrop Alt or Ctrl firmware 
+just cd to ctrloader and run the script ./ctrloader
 
+![CLI](Screen Shot 2019-05-07 at 3.14.56 PM)
+
+
+
+
+
+then drag and drop your firmware and hit enter. 
+
+![CLI2](Screen Shot 2019-05-07 at 3.15.08 PM)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### tl;dr
 1. Follow the instructions here to download the executable for your operating system: https://github.com/Massdrop/mdloader/releases
 
 2. Plug in your keyboard.
